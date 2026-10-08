@@ -6,7 +6,7 @@ Colección de automatizaciones reales con IA para ahorrar tiempo operativo.
 **Problema:** Leads se pierden y responder toma horas.
 **Flujo:** Webflow Form -> Make -> Claude (clasifica + genera email) -> HubSpot -> Gmail
 **Resultado:** -6h/semana, respuesta de 2h a 3min.
-**Demo:** [Loom 90s](LINK) | Blueprint: /make-blueprints/lead-enricher.json
+<!-- **Demo:** [Loom 90s](LINK) | Blueprint: /make-blueprints/lead-enricher.json -->
 
 ### 2. Content Factory - Sheets to WordPress
 **Flujo:** Google Sheets -> n8n -> Claude (borrador SEO) -> WordPress -> Slack
